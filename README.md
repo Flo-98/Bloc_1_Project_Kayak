@@ -1,4 +1,16 @@
-# Projet_2_Kayak
+
+Bloc n°1 - Construction et alimentation d'une infrastructure de gestion de donnée - Projet Kayak
+
+Nom: Sutz
+
+Prénom: Florian
+
+Mail: floriansutz@supbiotech.fr
+
+Lien de la vidéo :
+
+
+# Projet_Kayak
 
 Plan your trip with Kayak
 Company's description 📇
@@ -79,7 +91,5 @@ A .csv file in an S3 bucket containing enriched information about weather and ho
 
 A SQL Database where we should be able to get the same cleaned data from S3
 
-Two maps where you should have a Top-5 destinations and a Top-20 hotels in the area. You can use plotly or any other library to do so. It should look something like this:
-
-Map
+Two maps where you should have a Top-5 destinations and a Top-20 hotels in the area. You can use plotly or any other library to do so.
 
